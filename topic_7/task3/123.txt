@@ -1,0 +1,4 @@
+name: Анна, age: 18
+name: Іван, age: 19
+name: Петро, age: 20
+name: Марія, age: 21
